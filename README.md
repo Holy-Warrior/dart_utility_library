@@ -5,7 +5,7 @@ This library contains handy functions like checking for the latest GitHub releas
 
 ## ✨ Features
 
-- 🔍 **[GitHub Release Checker](#Guthub%20Release%20Checker)** – Easily detect if a new release is available.
+- 🔍 **[GitHub Release Checker](#github-release-checker)** – Easily detect if a new release is available.
 - 🧰 More utilities coming soon!
 
 ## GitHub Release Checker
